@@ -2,6 +2,8 @@
 Sistema de Aprobación Crediticia
 El modelo debe recibir los siguientes datos como entrada:
 
+Variables:
+
  ```piton
  "ID",                             # Número identificador del cliente
   "CHECKING_BALANCE",               # Saldo que posee el cliente en su cuenta corriente
