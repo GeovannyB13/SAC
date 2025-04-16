@@ -2,8 +2,8 @@
 Sistema de Aprobación Crediticia
 El modelo debe recibir los siguientes datos como entrada:
 
-[
-  "ID",                             # Número identificador del cliente
+
+ "ID",                             # Número identificador del cliente
   "CHECKING_BALANCE",               # Saldo que posee el cliente en su cuenta corriente
   "PAYMENT_TERM",                   # Cantidad de días que el cvliente posee para pagar el préstamo
   "CREDIT_HISTORY",                 # Situación crediticia pasada del cliente
@@ -25,4 +25,10 @@ El modelo debe recibir los siguientes datos como entrada:
   "TELEPHONE",                      # Denota si el cliente tiene un número de teléfono registrado
   "FOREIGN_WORKER"                  # Denota si el cliente trabaja en un país fuera del banco
 ]
-Y
+```
+
+Y como salida un valor binario que representa si se debe permitir o no el préstamo (0 para no, 1 para sí).
+
+**Atención**: los datos proporcionados en este desafío son ficticios, cualquier correlación con la realidad es mera coincidencia.
+
+Para comenz
