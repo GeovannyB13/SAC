@@ -1,2 +1,2 @@
-# S.A.C.u
+# S.A.C.
 Sistema de Aprobación Crediticia
