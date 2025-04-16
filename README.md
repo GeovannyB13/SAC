@@ -2,7 +2,7 @@
 Sistema de Aprobación Crediticia
 El modelo debe recibir los siguientes datos como entrada:
 
-
+ ```piton
  "ID",                             # Número identificador del cliente
   "CHECKING_BALANCE",               # Saldo que posee el cliente en su cuenta corriente
   "PAYMENT_TERM",                   # Cantidad de días que el cvliente posee para pagar el préstamo
